@@ -2,7 +2,9 @@
 <h3 align="center">Student Developer | ML Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
-  I am a 3rd-year <b>B.Tech CSE (DSAI)</b> student at <b>SRM University Haryana</b> and a <b>Foundation Level BS in Data Science</b> student at <b>IIT Madras</b>.
+  I am a 3rd-year <b>B.Tech CSE (DSAI)</b> student at <b>SRM University Haryana</b> 
+  <br>
+  and a <b>Foundation Level BS in Data Science</b> student at <b>IIT Madras</b>.
   <br>
   I enjoy building practical projects that combine clean design, useful functionality, and problem-solving.
   <br>
