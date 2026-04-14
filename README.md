@@ -1,130 +1,24 @@
 <h1 align="center">Hi, I'm Aayush Mehta 👋</h1>
 <h3 align="center">Student Developer | ML Enthusiast | Full-Stack Learner</h3>
 
-<p align="center">
-  I am a 3rd-year <b>B.Tech CSE (DSAI)</b> student at <b>SRM University Haryana</b> 
-  <br>
-  and a <b>Foundation Level BS in Data Science</b> student at <b>IIT Madras</b>.
-  <br>
-  I enjoy building practical projects that combine clean design, useful functionality, and problem-solving.
-  <br>
-  My core interests lie in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Full-Stack Development</b>.
-</p>
+# 💫 About Me:
+3rd-year B.Tech CSE (DSAI) student at SRM University Haryana<br>BS in Data Science student at IIT Madras<br>Interested in Data Science, Machine Learning, Recommendation Systems, and Web Development<br>Comfortable working with both frontend technologies and Python-based backend/application logic<br>Focused on improving problem-solving, technical depth, and practical development skills<br>I like building projects that are not just functional, but also clean, structured, and user-friendly<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aayushmehta15/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Aayush__Mehta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushmehta15092005@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=plastic&logo=Cockroach%20Labs&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aayushmehta220904&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Aayushmehta220904&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aayushmehta220904&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aayushmehta220904&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Aayushmehta220904&icon=1&color=10)](https://visitcount.itsvg.in)
 
-## About Me
-
-- 3rd-year **B.Tech CSE (DSAI)** student at **SRM University Haryana**
-- **BS in Data Science** student at **IIT Madras**
-- Interested in **Data Science, Machine Learning, Recommendation Systems, and Web Development**
-- Comfortable working with both **frontend technologies** and **Python-based backend/application logic**
-- Focused on improving problem-solving, technical depth, and practical development skills
-- I like building projects that are not just functional, but also clean, structured, and user-friendly
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Also Familiar With
-- REST API basics
-- Local Storage
-- Frontend UI design
-- Recommendation systems
-- Basic machine learning workflows
-- Data handling and preprocessing
-
----
-
-## Currently Learning
-
-- Applied **Machine Learning**
-- Core **Data Science workflows**
-- Backend development with **Python**
-- Better **full-stack project structuring**
-- Writing cleaner, more maintainable, and more scalable code
-
----
-
-## Featured Projects
-
-### Movie Recommendation System
-A machine learning-based recommendation system that helps users discover similar movies using similarity matching and data-driven filtering.
-
-### Literary Compass
-A book recommendation system designed to suggest similar books based on content-based filtering and structured search logic.
-
-### Hue Ledger
-A creative color palette generator that produces random palettes, gradients, and harmony-based color combinations through a polished interface.
-
----
-
-## Achievements
-
-- Built multiple academic and personal projects across **web development** and **machine learning**
-- Developed practical understanding through **self-driven implementation and experimentation**
-- Strengthening skills in **data science**, **recommendation systems**, and **full-stack development**
-- Managing learning across two strong academic tracks in **Computer Science** and **Data Science**
-
----
-
-## Goals
-
-- Deepen my knowledge in **Data Science** and **Machine Learning**
-- Build more polished and complete **full-stack applications**
-- Work on projects with real-world relevance and usability
-- Continue growing through hands-on learning and consistent development
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/aayushmehta220904" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-aayushmehta220904-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aayushmehta15/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayush%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Portfolio
-
-**Coming Soon**
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushmehta220904&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushmehta220904&layout=compact&theme=default" />
-</p>
-
----
-
-## Motto
-
-**Building with curiosity and consistency.**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
