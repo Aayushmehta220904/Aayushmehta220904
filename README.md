@@ -2,7 +2,7 @@
 <h3 align="center">Student Developer | ML Enthusiast | Full-Stack Learner</h3>
 
 <p align="center">
-  I am a 3rd-year <b>B.Tech CSE (DSAI)</b> student at <b>SRM University Haryana</b> 
+  I am a 4th year <b>B.Tech CSE (DSAI)</b> student at <b>SRM University Haryana</b> 
   <br>
   and a <b>Foundation Level BS in Data Science</b> student at <b>IIT Madras</b>.
   <br>
