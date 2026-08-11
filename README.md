@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 3rd-year **B.Tech CSE (DSAI)** student at **SRM University Haryana**
+- 4th year **B.Tech CSE (DSAI)** student at **SRM University Haryana**
 - **BS in Data Science** student at **IIT Madras**
 - Interested in **Data Science, Machine Learning, Recommendation Systems, and Web Development**
 - Comfortable working with both **frontend technologies** and **Python-based backend/application logic**
